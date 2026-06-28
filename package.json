@@ -1,7 +1,7 @@
 {
   "name": "pkbackend",
   "version": "1.0.0",
-  "description": "a basic application to deploy",
+  "description": "a basic application to deploy and learn new things.",
   "license": "ISC",
   "author": "Pranav Karanjawane",
   "type": "commonjs",
